@@ -1,0 +1,22 @@
+{
+  "name": "Tropeiros do Bebedouro",
+  "short_name": "Tropeiros",
+  "description": "Biblioteca musical com análise de progressões harmônicas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3D2B1F",
+  "theme_color": "#a08464",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/522fde112_LOGO-PNG.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/522fde112_LOGO-PNG.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
